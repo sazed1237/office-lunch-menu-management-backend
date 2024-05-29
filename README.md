@@ -1,4 +1,4 @@
-# office lunch menu management BACKEND
+# BACKEND
 
 ## Prerequisites to run the project
 - Node.js 
