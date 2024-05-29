@@ -1,4 +1,6 @@
-# BACKEND
+
+# Office Lunch Menu Management Backend
+Welcome to the Office Lunch Menu Management Backend repository! This project serves as the backend for managing lunch menus and users in an office setting. It is built using Node.js and Express, and it connects to a MongoDB database.
 
 ## Prerequisites to run the project
 - Node.js 
@@ -6,7 +8,7 @@
   
 Ensure you have Node.js installed. 
 
-## Installing Project
+## Installation Project
 - First clone the repository to your local machine: git clone [https://github.com/sazed1237/frontend-dev-task.git](https://github.com/sazed1237/office-lunch-menu-management-backend.git)
 - install all required dependencies use:
 - npm install
