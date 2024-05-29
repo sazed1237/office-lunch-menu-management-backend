@@ -19,7 +19,18 @@ Ensure you have Node.js installed.
 Here are the main scripts you can run:
 
 - Start: npm start - Start the server.
-- Test: npm test - Run tests 
+- Test: npm test - Run tests
+
+
+# Dependencies
+This project uses the following main dependencies:
+
+- cookie-parser: For parsing cookies.
+- cors: For enabling Cross-Origin Resource Sharing.
+- dotenv: For loading environment variables from a .env file.
+- express: Web framework for Node.js.
+- jsonwebtoken: For generating and verifying JSON Web Tokens.
+- mongodb: MongoDB driver for Node.js.
 
 
 =====================================================================
